@@ -9,3 +9,5 @@ This is a Google Apps Scrip for Google Sheet for a templated Test Cases Spreadsh
 copyRowWhenTestCaseFailed.gs
 ```
 4. Save the file
+5. Add Trigger (It's located in left side tab - stopwatch icon)
+6. Select event type: "On change"
